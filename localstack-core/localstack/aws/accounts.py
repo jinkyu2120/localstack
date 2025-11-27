@@ -7,7 +7,7 @@ import re
 
 from localstack import config
 from localstack.constants import DEFAULT_AWS_ACCOUNT_ID
-
+#코코
 LOG = logging.getLogger(__name__)
 
 # Account id offset for id extraction
